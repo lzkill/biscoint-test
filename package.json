@@ -1,0 +1,13 @@
+{
+  "name": "biscoint-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "biscoint-api-node": "^1.2.4",
+    "esm": "^3.2.25",
+    "tslib": "^2.3.1"
+  },
+  "scripts": {
+    "start": "node -r esm index.js"
+  }
+}
